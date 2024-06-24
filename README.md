@@ -16,19 +16,19 @@ You may also see any lint errors in the console.
 
 ### Frontend screenshorts
 * login page:-
-![login_page](https://github.com/Keyurmachchhar/social_media-app-client/assets/159628049/c26468a4-0fdb-4a84-b824-ad105031441d)
+![login](https://github.com/Keyurmachchhar/CodeAlpha_SocialMedia/assets/159628049/14cf663f-b67c-4c1f-bea8-dcffc5dc0c35)
 
 * signup page:-
-![signup-2_page](https://github.com/Keyurmachchhar/social_media-app-client/assets/159628049/1843df9d-1da2-43cf-8814-9398eba54020)
+![signup](https://github.com/Keyurmachchhar/CodeAlpha_SocialMedia/assets/159628049/3b401325-56ad-430c-989b-75c60cbbd7f2)
 
 * resetpassword page:-
-![resetpassword](https://github.com/Keyurmachchhar/social_media-app-client/assets/159628049/1ba48b42-bd11-4d65-835d-4d8a7a36bb3f)
+![reset-password](https://github.com/Keyurmachchhar/CodeAlpha_SocialMedia/assets/159628049/4a2aea96-f41a-45fd-8cdc-2401fcf344a7)
 
 * homepage_light:-
-![homepahe_light](https://github.com/Keyurmachchhar/social_media-app-client/assets/159628049/f64d0b1b-c99d-48ca-9e3f-ac819542575d)
+![homepage(light)](https://github.com/Keyurmachchhar/CodeAlpha_SocialMedia/assets/159628049/5532882d-3630-4b8d-b028-c2b9f65480c4)
 
 * homepage_dark:-
-![homepage_dark](https://github.com/Keyurmachchhar/social_media-app-client/assets/159628049/68089006-edf5-4a1e-8c91-f1a9c3ae8332)
+![homepage(dark)](https://github.com/Keyurmachchhar/CodeAlpha_SocialMedia/assets/159628049/e179aac9-a618-4f48-85bb-6127e5c183a1)
 
 * Full video of social media app:-
-https://github.com/Keyurmachchhar/social_media-app-client/assets/159628049/a4269b8d-23a2-4265-898b-678a310035b3
+https://github.com/Keyurmachchhar/CodeAlpha_SocialMedia/assets/159628049/e6b6f286-e224-43c4-8010-d20e35d44c5f
