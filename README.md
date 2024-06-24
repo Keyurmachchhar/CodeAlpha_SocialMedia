@@ -21,11 +21,11 @@ You may also see any lint errors in the console.
 * signup page:-
 ![signup-2_page](https://github.com/Keyurmachchhar/social_media-app-client/assets/159628049/1843df9d-1da2-43cf-8814-9398eba54020)
 
-*resetpassword page:-
+* resetpassword page:-
 ![resetpassword](https://github.com/Keyurmachchhar/social_media-app-client/assets/159628049/1ba48b42-bd11-4d65-835d-4d8a7a36bb3f)
 
-*homepage_light:-
+* homepage_light:-
 ![homepahe_light](https://github.com/Keyurmachchhar/social_media-app-client/assets/159628049/f64d0b1b-c99d-48ca-9e3f-ac819542575d)
 
-*homepage_dark:-
+* homepage_dark:-
 ![homepage_dark](https://github.com/Keyurmachchhar/social_media-app-client/assets/159628049/68089006-edf5-4a1e-8c91-f1a9c3ae8332)
