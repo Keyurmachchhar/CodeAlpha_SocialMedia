@@ -1,18 +1,19 @@
-# Getting Started with Create React App
+# Social Media App
+# Introduction
+This is a social media application built using the MERN stack (MongoDB, Express, React, Node.js). The application allows users to create accounts, post updates, follow other users, and interact through likes and comments.
+# Features
+* User authentication (sign up, log in, log out)
+* Create, read, update, and delete posts
+* send a friend request
+* confrim and delete a friend request
+* Like and comment on posts
+* Responsive design
+# Technologies Used
+* Frontend: React, Redux, Tailwind CSS
+* Backend: Node.js, Express.js
+* Database: MongoDB Atlas
+* Authentication: JWT (JSON Web Token)
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
-## Available Scripts
-
-In the project directory, you can run:
-
-### `npm start`
-
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
-
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
 
 ### Frontend screenshorts
 * login page:-
