@@ -29,3 +29,6 @@ You may also see any lint errors in the console.
 
 * homepage_dark:-
 ![homepage_dark](https://github.com/Keyurmachchhar/social_media-app-client/assets/159628049/68089006-edf5-4a1e-8c91-f1a9c3ae8332)
+
+* Full video of social media app:-
+https://github.com/Keyurmachchhar/social_media-app-client/assets/159628049/a4269b8d-23a2-4265-898b-678a310035b3
