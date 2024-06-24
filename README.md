@@ -1,6 +1,6 @@
 # Social Media App
 # Introduction
-This is a social media application built using the MERN stack (MongoDB, Express, React, Node.js). The application allows users to create accounts, post updates, send a friend request of other users, and interact through likes and comments.
+This is a social media application built using the MERN stack (MongoDB, Express, React, Node.js). The application allows users to create accounts, post updates, send a friend request of other users and user can confrim/delete a friens request, and interact through likes and comments.
 # Features
 * User authentication (sign up, log in, log out)
 * Create, read, update, and delete posts
